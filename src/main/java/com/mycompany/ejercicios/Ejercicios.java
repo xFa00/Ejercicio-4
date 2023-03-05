@@ -18,6 +18,7 @@ public class Ejercicios {
         
          System.out.println("Ingrese la edad de Juan: ");
          edadJuan= leerporteclado.nextInt();
+         
          edadAlberto= edadJuan*2/3;
          edadAna= edadJuan*4/3;
          edadMama= edadJuan+edadAlberto+edadAna;
